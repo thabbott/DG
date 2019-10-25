@@ -1,0 +1,7 @@
+name: dg
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
